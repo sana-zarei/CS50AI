@@ -102,7 +102,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
     - **Backtracking search**
 
 ### Projects
-- [Crossword](https://github.com/nahueespinosa/ai50/tree/master/crossword)
+- [Crossword](https://github.com/sana-zarei/CS50AI/tree/main/Week%203/Project/crossword)
     
 ## Lecture 4 : [Learning](https://cs50.harvard.edu/ai/2023/weeks/4/)
 
@@ -135,8 +135,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
  clusters' centers.
 
 ### Projects
-- [Shopping](https://github.com/nahueespinosa/ai50/tree/master/shopping)
-- [Nim](https://github.com/nahueespinosa/ai50/tree/master/nim)
+- [Shopping](https://github.com/sana-zarei/CS50AI/tree/main/Week%204/Project/shopping)
+- [Nim](https://github.com/sana-zarei/CS50AI/tree/main/Week%204/Project/nim)
 
 ## Lecture 5 : [Neural Networks](https://cs50.harvard.edu/ai/2023/weeks/5/)
 
@@ -158,7 +158,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Backpropagation**: algorithm for training neural networks with hidden layers.
 
 ### Projects
-- [Traffic](https://github.com/nahueespinosa/ai50/tree/master/traffic)
+- [gtsrb](https://github.com/sana-zarei/CS50AI/tree/main/Week%205/Project/gtsrb)
+- [Traffic](https://github.com/sana-zarei/CS50AI/tree/main/Week%205/Project/traffic)
 
 ## Lecture 6 : [Language](https://cs50.harvard.edu/ai/2023/weeks/6/)
 
@@ -195,5 +196,5 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **skip-gram architecture**: neural network architecture for predicting context words given a target word.
 
 ### Projects
-- [Parser](https://github.com/nahueespinosa/ai50/tree/master/parser)
-- [Questions](https://github.com/nahueespinosa/ai50/tree/master/questions)
+- [Parser](https://github.com/sana-zarei/CS50AI/tree/main/Week%206/Project/parser)
+- [Questions or attention](https://github.com/sana-zarei/CS50AI/tree/main/Week%206/Project/attention)

@@ -18,7 +18,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 # Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference. 
 
-## Lecture 0: [Search](https://cs50.harvard.edu/python/2023/weeks/0/)
+## Lecture 0: [Search](https://cs50.harvard.edu/ai/2023/weeks/0/)
 
 ### Concepts
 - **Agent**: entity that perceives its environment and acts upon that environment.
@@ -42,7 +42,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - [Degrees](https://github.com/nahueespinosa/ai50/tree/master/degrees)
 - [Tic-Tac-Toe](https://github.com/nahueespinosa/ai50/tree/master/tictactoe)
 
-## Lecture 1: Knowledge
+## Lecture 1: [Knowledge](https://cs50.harvard.edu/ai/2023/weeks/1/)
 
 ### Concepts
 - **Sentence**: an assertion about the world in a knowledge representation language.
@@ -61,7 +61,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - [Knights](https://github.com/nahueespinosa/ai50/tree/master/knights)
 - [Minesweeper](https://github.com/nahueespinosa/ai50/tree/master/minesweeper)
 
-## Lecture 2: Uncertainty
+## Lecture 2: [Uncertainty](https://cs50.harvard.edu/ai/2023/weeks/2/)
 
 ### Concepts
 - **Unconditional probability**: degree of belief in a proposition in the absence of any other evidence.
@@ -84,7 +84,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - [Heredity](https://github.com/nahueespinosa/ai50/tree/master/heredity)
 - [PageRank](https://github.com/nahueespinosa/ai50/tree/master/pagerank)
 
-## Lecture 3: Optimization
+## Lecture 3: [Optimization](https://cs50.harvard.edu/ai/2023/weeks/3/)
 
 ### Concepts
 - **Optimization**: choosing the best option from a set of options.
@@ -108,7 +108,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 ### Projects
 - [Crossword](https://github.com/nahueespinosa/ai50/tree/master/crossword)
     
-## Lecture 4: Learning
+## Lecture 4: [Learning](https://cs50.harvard.edu/ai/2023/weeks/4/)
 
 ### Concepts
 - **Supervised learning**: given a data set of input-output pairs, learn a function to map inputs to outputs.
@@ -142,7 +142,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - [Shopping](https://github.com/nahueespinosa/ai50/tree/master/shopping)
 - [Nim](https://github.com/nahueespinosa/ai50/tree/master/nim)
 
-## Lecture 5: Neural Networks
+## Lecture 5: [Neural Networks](https://cs50.harvard.edu/ai/2023/weeks/5/)
 
 ### Concepts
 - **Artificial neural network**: mathematical model for learning inspired by biological neural networks.
@@ -164,7 +164,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 ### Projects
 - [Traffic](https://github.com/nahueespinosa/ai50/tree/master/traffic)
 
-## Lecture 6: Language
+## Lecture 6: [Language](https://cs50.harvard.edu/ai/2023/weeks/6/)
 
 ### Concepts
 - **Natural language processing**

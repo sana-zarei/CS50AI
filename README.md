@@ -18,7 +18,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 # Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference. 
 
-## Lecture 0: Search(https://cs50.harvard.edu/python/2023/weeks/0/)
+## Lecture 0: [Search](https://cs50.harvard.edu/python/2023/weeks/0/)
 
 ### Concepts
 - **Agent**: entity that perceives its environment and acts upon that environment.
